@@ -2,6 +2,7 @@
 *.log
 *.gz
 task/
+upload/
 
 ### VS Code ###
 .vscode/
